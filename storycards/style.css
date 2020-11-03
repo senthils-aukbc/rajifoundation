@@ -14,7 +14,8 @@ body {
   max-width: 38em;
   margin: auto;
   color: #111111;
-  background-color: #f9f9f9;
+  /* background-color: #f9f9f9; */
+  background-color: lemonchiffon;
   padding: 13px; }
 
 @media (max-width: 684px) {
